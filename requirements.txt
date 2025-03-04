@@ -1,0 +1,10 @@
+Flask
+flask-cors
+numpy
+pandas
+requests
+scikit-learn
+waitress
+datetime
+os
+re
