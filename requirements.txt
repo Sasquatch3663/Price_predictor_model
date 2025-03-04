@@ -5,6 +5,3 @@ pandas
 requests
 scikit-learn
 waitress
-datetime
-os
-re
